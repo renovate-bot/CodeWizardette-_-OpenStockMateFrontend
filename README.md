@@ -20,13 +20,6 @@ OpenStockMate, modern teknolojiler kullanılarak oluşturulmuş ve kullanıcı d
 - Django (Backend)
 - SQLite (Veritabanı)
 
-## Nasıl Başlanır?
-
-1. Projeyi klonlayın: `git clone https://github.com/kullaniciadi/OpenStockMate.git`
-2. Backend kısmını başlatın: `cd backend && python manage.py runserver`
-3. Frontend kısmını başlatın: `cd frontend && npm start`
-
-
 ## Katkıda Bulunma
 
 - İssues sekmesini kontrol ederek eksik özellikleri veya hataları bildirebilirsiniz.
