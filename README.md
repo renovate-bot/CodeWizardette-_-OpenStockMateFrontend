@@ -1,4 +1,4 @@
-# OpenStockMate
+# OpenStockMate.org
 
 OpenStockMate, stok takibi yapmak için kullanılan açık kaynaklı bir web uygulamasıdır.
 
